@@ -8,7 +8,7 @@ This is one of the projects required to obtain the responsive web design certifi
 
 It consists of creating a starting page of some product of my choice and giving my personal style to the page.
 
-Used technology:
+
 
 ---
 
@@ -20,9 +20,9 @@ Used technology:
 
 ## Preview:
 
-THE LINK OF THE IMAGE Redirection to animation
 
-&darr;
+
+
 
 [![Project image capture](https://github.com/SamantaDriuzzi/Product-Leanding-Page/blob/master/Captura.PNG?raw=true "Project image capture")](http://127.0.0.1:5500/index.html "Project image capture")
 
